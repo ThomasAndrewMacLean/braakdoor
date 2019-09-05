@@ -7,4 +7,4 @@ menu:
     weight: 4
 layout: page
 ---
-<a href="mailto:braakdoor@gmail.com"> braakdoor@gmail.com </a>
+<a href="mailto:braakdoor@gmail.com" target="_blank" rel="noopener noreferrer"> braakdoor@gmail.com </a>
