@@ -3,7 +3,7 @@ title: Contact
 subtitle: Aliquam lobortis faucibus blandit
 menu:
   main:
-    name: Ipsum
+    name: Contact
     weight: 4
 layout: page
 ---
