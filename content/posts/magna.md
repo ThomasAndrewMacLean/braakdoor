@@ -1,6 +1,7 @@
 ---
 title: Magna etiam sed lorem ipsum dolor amet
 subtitle: A cautionary tale about Magna etiam
+content_img_path: /images/screenshot-2019-08-26-at-08.17.50.png
 excerpt: >-
   Phasellus in ante vitae nibh porttitor tempus vitae ut ante. Vestibulum
   blandit dolor elementum viverra. Sed quat a diam, aliquet tempus felis.
